@@ -1,0 +1,99 @@
+Política de Privacidad de CupónHub
+
+Última actualización: 24 de Noviembre de 2025
+
+Esta Política de Privacidad describe cómo Nilho S.A.S ("nosotros", "nuestro" o "la extensión") recopila, utiliza y comparte información sobre usted cuando utiliza nuestra extensión de navegador Chrome. CupónHub se compromete a proteger su privacidad y a ser transparente sobre los datos que procesamos para ofrecerle los mejores descuentos automáticamente.
+
+Al instalar y utilizar CupónHub, usted acepta las prácticas descritas en esta política.
+
+1. Información que Recopilamos
+
+Para cumplir con nuestra función principal de encontrar y aplicar cupones de descuento automáticamente, recopilamos y procesamos los siguientes tipos de información:
+
+1.1 Información de Identificación Personal (PII)
+
+Recopilamos información personal limitada únicamente cuando usted decide autenticarse en la extensión:
+
+Correo Electrónico y Nombre: Recopilados a través de Google Sign-In (OAuth 2.0) o registro directo para crear y gestionar su cuenta de usuario.
+
+ID de Usuario: Un identificador único asociado a su cuenta para sincronizar sus preferencias entre dispositivos.
+
+1.2 Información Financiera y de Pagos
+
+Nuestra extensión interactúa con las páginas de pago ("checkout") de los sitios de comercio electrónico para aplicar cupones. Durante este proceso, procesamos de manera efímera (temporal y local):
+
+Totales del Carrito: Leemos el subtotal, total y montos de descuento visibles en la página para calcular el ahorro potencial.
+
+Moneda: Detectamos la moneda de la transacción (ej. COP, MXN, USD) para mostrar el ahorro correctamente.
+
+Nota Importante: CupónHub NO recopila, almacena ni transmite números de tarjetas de crédito, cuentas bancarias, CVV ni ninguna otra información sensible de pago. Solo leemos los montos finales para verificar si un cupón funcionó.
+
+1.3 Información de Ubicación
+
+País de Preferencia: Almacenamos su selección de país (ej. Colombia, México, Argentina) para filtrar y mostrar cupones válidos en su región.
+
+1.4 Historial Web y Datos de Navegación
+
+Para que la extensión funcione automáticamente, necesitamos saber qué sitio web está visitando:
+
+URLs de Sitios de Compras: La extensión monitorea las URLs de las pestañas activas para detectar si está visitando una tienda compatible con nuestra base de datos.
+
+Datos de Afiliación: Cuando aplica un cupón, podemos redirigir su navegación a través de enlaces de afiliados para validar la oferta y generar ingresos que mantienen la extensión gratuita.
+
+1.5 Actividad del Usuario y Datos Técnicos
+
+Recopilamos datos técnicos para mejorar el servicio y detectar errores:
+
+Interacciones: Clics en botones de la extensión (ej. "Aplicar Cupones", "Ver Ofertas").
+
+Resultados de Cupones: Registramos si un código de cupón funcionó o falló, y cuánto ahorro generó. Esto nos ayuda a eliminar cupones caducados de nuestra base de datos.
+
+ID de Instalación: Un identificador anónimo generado aleatoriamente para contar instalaciones únicas.
+
+2. Cómo Usamos su Información
+
+Utilizamos la información recopilada para los siguientes propósitos ("Funcionalidad de la aplicación" y "Analítica"):
+
+Aplicación Automática de Cupones: Para detectar el sitio web, encontrar cupones compatibles en nuestra base de datos e inyectarlos automáticamente en el campo de descuento.
+
+Gestión de Cuentas: Para permitirle guardar sus preferencias de país y mantener su sesión activa.
+
+Mejora del Servicio: Analizamos qué cupones funcionan y cuáles no para mantener nuestra base de datos actualizada y precisa.
+
+Soporte y Seguridad: Para detectar fraudes, errores técnicos y responder a solicitudes de soporte.
+
+3. Compartir Información con Terceros
+
+CupónHub no vende sus datos personales a terceros. Compartimos información únicamente en las siguientes circunstancias limitadas:
+
+Proveedores de Servicios: Utilizamos servicios de terceros confiables para operar nuestra infraestructura (ej. Supabase para autenticación y base de datos, Vercel para alojamiento de API). Estos proveedores solo tienen acceso a la información necesaria para realizar sus funciones y están obligados a protegerla.
+
+Redes de Afiliados: Al utilizar nuestros cupones, podemos compartir información anónima sobre la transacción (como el ID del pedido o el monto) con redes de afiliados para atribuir la venta y recibir una comisión. Esto no incluye su información personal.
+
+Requisitos Legales: Podemos divulgar información si así lo requiere la ley, una orden judicial o para proteger nuestros derechos legales.
+
+4. Retención y Seguridad de Datos
+
+Seguridad: Implementamos medidas de seguridad estándar de la industria (cifrado HTTPS/TLS para todas las comunicaciones con nuestra API) para proteger sus datos contra el acceso no autorizado.
+
+Retención: Conservamos su información de perfil mientras mantenga su cuenta activa. Los datos de telemetría anónimos (ej. éxito de cupones) se almacenan de forma agregada para análisis estadístico.
+
+5. Sus Derechos
+
+Dependiendo de su ubicación, usted puede tener derechos sobre sus datos personales, incluyendo:
+
+Acceso y Corrección: Puede ver y editar su información de perfil (país) directamente en la extensión.
+
+Eliminación: Puede solicitar la eliminación de su cuenta y datos asociados contactándonos.
+
+Retirar el Consentimiento: Puede desinstalar la extensión en cualquier momento, lo que detendrá toda recopilación de datos.
+
+6. Cambios a esta Política
+
+Podemos actualizar esta Política de Privacidad ocasionalmente para reflejar cambios en nuestras prácticas o requisitos legales. Le notificaremos sobre cambios materiales a través de la extensión o por correo electrónico si ha iniciado sesión.
+
+7. Contacto
+
+Si tiene preguntas sobre esta Política de Privacidad o sobre cómo manejamos sus datos, por favor contáctenos en:
+
+Correo Electrónico: team@nilho.com Sitio Web: nilho.co
